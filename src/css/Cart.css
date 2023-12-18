@@ -1,0 +1,22 @@
+.make-order-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .make-order-button {
+    font-size: 20px;
+    color: #ffffff;
+    background-color: #3498db;
+    border: 2px solid #3498db;
+    border-radius: 10px;
+    padding: 15px 30px;
+    cursor: pointer;
+    transition: background-color 0.3s, border-color 0.3s;
+  }
+  
+  .make-order-button:hover {
+    background-color: #2980b9;
+    border-color: #2980b9;
+  }
+  
